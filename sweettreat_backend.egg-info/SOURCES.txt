@@ -1,0 +1,6 @@
+README.md
+setup.py
+sweettreat_backend.egg-info/PKG-INFO
+sweettreat_backend.egg-info/SOURCES.txt
+sweettreat_backend.egg-info/dependency_links.txt
+sweettreat_backend.egg-info/top_level.txt
